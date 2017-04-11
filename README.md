@@ -3,6 +3,9 @@ Full Javascript grabcut web application. Based on:
 * grabcut from OpenCV library
 * opencvjs for Javascript exposition https://github.com/ucisysarch/opencvjs
 
+![Screenshot](screenshot.png)
+
+
 A demo is available here:
 
 
