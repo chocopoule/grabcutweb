@@ -1,5 +1,5 @@
 # grabcutweb
-Full Javascript grabcut web application. Based on:
+Full Javascript grabcut web demo. Based on:
 * grabcut from OpenCV library
 * opencvjs for Javascript exposition https://github.com/ucisysarch/opencvjs
 * Bootstrap and jQuery for frontEnd
