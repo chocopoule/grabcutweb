@@ -8,7 +8,7 @@ Full Javascript grabcut web demo. Based on:
 
 
 A demo is available here:
-
+https://lejeremy.github.io/grabcutweb/
 
 ## How to run locally
 - Clone the repository
