@@ -1,7 +1,7 @@
 # grabcutweb
 
 A demo is available here:
-https://lejeremy.github.io/grabcutweb/
+https://chocopoule.github.io/grabcutweb/
 
 Full Javascript grabcut web demo. Based on:
 * grabcut from OpenCV library
